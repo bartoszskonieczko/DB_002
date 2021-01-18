@@ -1,0 +1,86 @@
+18.01.2021 11:29:18	This log contains information about the import schema operation into project 'DB_002' on computer 'LHWA5CG7181L3V' by user 'Bartosz.Skonieczko'.
+18.01.2021 11:29:19	Import of database schema has started.
+18.01.2021 11:29:20	Gathering database credentials
+18.01.2021 11:29:20	Gathering database options
+18.01.2021 11:29:20	Gathering generic database scoped configuration option
+18.01.2021 11:29:20	Gathering users
+18.01.2021 11:29:20	Gathering roles
+18.01.2021 11:29:20	Gathering application roles
+18.01.2021 11:29:20	Gathering role memberships
+18.01.2021 11:29:20	Gathering filegroups
+18.01.2021 11:29:20	Gathering full-text catalogs
+18.01.2021 11:29:20	Gathering assemblies
+18.01.2021 11:29:20	Gathering certificates
+18.01.2021 11:29:20	Gathering asymmetric keys
+18.01.2021 11:29:20	Gathering symmetric keys
+18.01.2021 11:29:20	Gathering encrypted symmetric keys
+18.01.2021 11:29:20	Gathering schemas
+18.01.2021 11:29:20	Gathering XML schema collections
+18.01.2021 11:29:20	Gathering user-defined data types
+18.01.2021 11:29:20	Gathering user-defined types
+18.01.2021 11:29:20	Gathering table types
+18.01.2021 11:29:20	Gathering unique keys for table types
+18.01.2021 11:29:20	Gathering primary keys for table types
+18.01.2021 11:29:20	Gathering indexes for table types
+18.01.2021 11:29:20	Gathering check constraints for table types
+18.01.2021 11:29:20	Gathering default constraints for table types
+18.01.2021 11:29:20	Gathering partition functions
+18.01.2021 11:29:20	Gathering partition schemes
+18.01.2021 11:29:20	Gathering functions
+18.01.2021 11:29:21	Gathering encrypted functions
+18.01.2021 11:29:21	Gathering aggregates
+18.01.2021 11:29:21	Gathering procedures
+18.01.2021 11:29:21	Gathering encrypted procedures
+18.01.2021 11:29:21	Gathering tables
+18.01.2021 11:29:21	Gathering primary keys
+18.01.2021 11:29:21	Gathering unique constraints
+18.01.2021 11:29:21	Gathering foreign keys
+18.01.2021 11:29:21	Gathering default constraints
+18.01.2021 11:29:21	Gathering check constraints
+18.01.2021 11:29:21	Gathering views
+18.01.2021 11:29:21	Gathering encrypted views
+18.01.2021 11:29:21	Gathering indexes
+18.01.2021 11:29:21	Gathering statistics
+18.01.2021 11:29:21	Gathering full-text index stoplists
+18.01.2021 11:29:21	Gathering search property lists
+18.01.2021 11:29:21	Gathering search properties
+18.01.2021 11:29:21	Gathering full-text indexes
+18.01.2021 11:29:21	Gathering column store indexes
+18.01.2021 11:29:21	Gathering spatial indexes
+18.01.2021 11:29:21	Gathering XML indexes
+18.01.2021 11:29:21	Gathering Selective XML indexes
+18.01.2021 11:29:21	Gathering encrypted triggers
+18.01.2021 11:29:21	Gathering triggers
+18.01.2021 11:29:21	Gathering encrypted and clr ddl triggers
+18.01.2021 11:29:21	Gathering ddl triggers
+18.01.2021 11:29:21	Creating edge constraints
+18.01.2021 11:29:21	Gathering synonyms
+18.01.2021 11:29:21	Gathering defaults
+18.01.2021 11:29:21	Gathering data constraint uddt bindings
+18.01.2021 11:29:21	Gathering rules
+18.01.2021 11:29:21	Gathering data constraint uddt bindings
+18.01.2021 11:29:21	Gathering message types
+18.01.2021 11:29:21	Gathering queues
+18.01.2021 11:29:22	Gathering contracts
+18.01.2021 11:29:22	Gathering services
+18.01.2021 11:29:22	Gathering event notifications
+18.01.2021 11:29:22	Gathering remote service bindings
+18.01.2021 11:29:22	Gathering broker priorities
+18.01.2021 11:29:22	Gathering signatures
+18.01.2021 11:29:22	Gathering data compression options
+18.01.2021 11:29:22	Gathering sequence types
+18.01.2021 11:29:22	Gathering security policies
+18.01.2021 11:29:22	Gather column encryption keys
+18.01.2021 11:29:22	Gathering column master keys
+18.01.2021 11:29:22	Gathering external data sources
+18.01.2021 11:29:22	Gathering external file formats
+18.01.2021 11:29:22	Gathering external tables
+18.01.2021 11:29:22	Gathering extended properties
+18.01.2021 11:29:22	Gathering credentials
+18.01.2021 11:29:22	Gathering logins
+18.01.2021 11:29:22	Gathering server audits
+18.01.2021 11:29:27	Scanning project for duplicate elements
+18.01.2021 11:29:30	Finished duplicate element processing
+18.01.2021 11:29:41	Finished importing database.
+18.01.2021 11:29:41	A summary of the import was saved to the following location: C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\Import Schema Logs\DB_002_20210118102918.log
+18.01.2021 11:29:41	Click Finish to continue...

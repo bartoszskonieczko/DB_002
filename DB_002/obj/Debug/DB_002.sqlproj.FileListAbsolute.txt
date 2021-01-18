@@ -1,0 +1,10 @@
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\bin\Debug\DB_002.dacpac
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\bin\Debug\DB_002.dll
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\bin\Debug\DB_002.pdb
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\obj\Debug\DB_002.sqlprojAssemblyReference.cache
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\obj\Debug\Model.xml
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\obj\Debug\refactor.xml
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\obj\Debug\postdeploy.sql
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\obj\Debug\predeploy.sql
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\obj\Debug\DB_002.dll
+C:\Users\Bartosz.Skonieczko\Desktop\MediMSat\POC\DB_002\DB_002\obj\Debug\DB_002.pdb
